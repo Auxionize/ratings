@@ -1,7 +1,5 @@
 'use strict';
 
-'use strict';
-
 // Include required modules
 var co = require('co');
 var chai = require('chai');
